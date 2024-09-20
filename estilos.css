@@ -1,0 +1,35 @@
+
+:root {
+    --purple : #9353ff;
+    --neon-green: #daff01
+}
+
+.body {
+    min-height: 100vh;
+}
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.btn-purple {
+    color: white;
+    background-color: var(--purple);
+}
+
+.btn-purple-2 {
+    color: white;
+    background-color: var(--purple);
+}
+.btn-purple:hover {
+    color: var(--purple);
+    border: 1px solid var(--purple);
+}
+
+.neon-green {
+    color: var(--neon-green);
+}
